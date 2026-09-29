@@ -1,4 +1,4 @@
-# Gurobi Formulation Behavior Investigation
+Ôªø# Gurobi Formulation Behavior Investigation
 
 This repository contains a small set of industrial car-sequencing MILP models that exhibit an interesting and repeatable difference in Gurobi's behavior.
 
@@ -51,7 +51,7 @@ Where:
 - `YYYYMMDD` = production day / test instance,
 - `AA` = number of vehicle types,
 - `BBBB` = sequence length,
-- `Y` = objective-function variant (1ñ5).
+- `Y` = objective-function variant (1‚Äì5).
 
 Example:
 
@@ -160,7 +160,7 @@ Thank you for taking the time to review the models and experimental results.
 
 For any questions regarding the models, experimental setup, data preparation, or interpretation of the results, please feel free to contact:
 
-- Luboö Tak·c ñ <ltakac@kia.sk>
-- Alternative contact ñ <lubos.takac@gmail.com>
+- ƒΩubo≈° Tak√°ƒç ‚Äì <ltakac@kia.sk>
+- Alternative contact ‚Äì <lubos.takac@gmail.com>
 
 I would be happy to provide additional information, model details, or supplementary experimental data if needed.
